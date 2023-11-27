@@ -1,2 +1,2 @@
 # edurekapurduepgpdvops
-edureka-purdue-pgpdevops
+edureka-purdue-pgpdevops program - repository to collaborate with the batchmates on git 
