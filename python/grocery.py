@@ -1,3 +1,4 @@
+print ("Enter your list of items to buy line by line and once done press ctrl + d" ) 
 glist = {}
 #loop
 while True:
